@@ -32,7 +32,7 @@ const mapStyles = {
 };
  
 export default GoogleApiWrapper({
-    apiKey: 'AIzaSyAivlILyehxXi6kcUwQBt5I84X2amMgGVE'
+    apiKey: 'THERE WAS AN API KEY HERE BUT I REMOVED IT FOR NOW'
   })(Maps);
 
 // function Google() {
